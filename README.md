@@ -1,34 +1,15 @@
 ## Welcome to Vincent's Personal Page!
 
 
-### Markdown
+### About Me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Hi everybody! My name is Vincent Jui-Yi Tsai (蔡睿翊).
+I'm a research assistant in Academia Sinica and a Ph.D. student in National Chiao Tung University.
+My research interest is data mining/machine learning on social networks/knowledge graphs.
 
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vincenttsai2015/vincenttsai/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact
+For any questions, please feel free to contact me via email: [My English name (NOT Roman pin-yin)][My last name]@iis.sinica.edu.tw
